@@ -1,7 +1,7 @@
 # ¿De qué trata el proyecto?
 Es una herramienta de navegación y exploración de datos en data lakes. En particular, se utiliza como caso de estudio el [Catálogo de Datos Abiertos de Uruguay](https://catalogodatos.gub.uy/).
 
-Ver [diagrama](https://miro.com/app/board/uXjVKwkwBF4=/) si se quiere profundizar en el entendimiento de las herramientas involucradas en el proyecto.
+En el directorio raiz del proyecto se encuentra un archivo pdf `ProyectoDeGradoMetadatos2025.pdf` que contiene toda la investigación y documentación realizada en el transcurso del trabajo. Consultar el [diagrama](https://miro.com/app/board/uXjVKwkwBF4=/) si se quiere visualizar gráficamente el funcionamiento de algunas de las herramientas.
 
 # Requerimientos
 
